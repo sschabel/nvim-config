@@ -3,6 +3,7 @@ require("config.lazy")
 vim.g.mapleader = " "  -- Sets the leader key to space
 vim.opt.termguicolors = true
 vim.opt.clipboard = 'unnamedplus'
+vim.o.splitright = true
 
 --help files open in full window and are listed in buffer elements
 vim.api.nvim_create_autocmd("FileType", {
