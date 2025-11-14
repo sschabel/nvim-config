@@ -41,7 +41,7 @@ function M:setup()
             "java.base/java.util=ALL-UNNAMED",
             "--add-opens",
             "java.base/java.lang=ALL-UNNAMED",
-            "-javaagent:" .. vim.fn.expand("$MASON/share/lombok-nightly/lombok.jar"),
+            "-javaagent:" .. vim.fn.expand("$MASON/share/jdtls/lombok.jar"),
 
             -- 💀
             "-jar",
