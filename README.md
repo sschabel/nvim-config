@@ -19,3 +19,4 @@
 10. [Toggle Term](https://github.com/akinsho/toggleterm.nvim) - Allows you to toggle a terminal (and customize it)
 11. [Tree Sitter](https://github.com/nvim-treesitter/nvim-treesitter) - Adds proper code highlighting to Neovim
 12. [NVIM Web Devicons](https://github.com/nvim-tree/nvim-web-devicons) - Adds icons
+13. [Oil](https://github.com/stevearc/oil.nvim) - Neovim file explorer
