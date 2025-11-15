@@ -42,11 +42,5 @@ return {
                 { path = "${3rd}/luv/library", words = { "vim%.uv" } },
             },
         },
-    },
-    {
-        'Tyrannican/warcraft-api.nvim',
-        ft = "lua",
-        opts = {},
-        dependencies = { 'nvim-lua/plenary.nvim' }
     }
 }
